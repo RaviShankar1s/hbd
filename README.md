@@ -7,7 +7,7 @@ It's designed as a personal and emotional way to wish someone special — when y
 
 ## 🧠 Project Idea
 
-> **POV:** It's her birthday, but you can't meet — so you build something special instead. for succefully working its wish 
+> **POV:** It's her birthday, but you can't meet — so you build something special instead. for succefully working its wish someone
 
 The website features:
 
