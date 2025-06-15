@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react'
-import { motion } from 'framer-motion'
+import { motion } from 'framer-motion'll
 import { Heart, Sparkles, Star } from "lucide-react"
 
 function Loader() {
